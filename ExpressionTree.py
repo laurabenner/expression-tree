@@ -1,14 +1,5 @@
 # Laura Benner
-# Expression Tree Assignment
-# December 6, 2024
-# Enhancements made:
-    # Allow free form use of spaces (including no spaces unless needed to separate two values)
-    # Allow more than one input scheme auto-detecting the expression type (prefix, infix, and postfix input all supported)
-    # Increase operator support (addition, multiplication, subtraction, division, modulus all supported)
-    # Add narration routine using good English paragraph structure and ordinal words
-    # Add an "evaluation order" counter (to the nodes) and show the order of operation execution
-    # Some error handling and intelligent error messages
-
+# Expression Tree
 
 class ExprParser:
   def __init__(self, input):
