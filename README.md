@@ -13,7 +13,3 @@ This project implements an **Expression Tree** that parses, evaluates, and narra
   - Tree visualization with operation order.
   - Step-by-step English narration.
 
-## How to Use
-1. Run the program and input an expression.
-2. View parsed formats, evaluation result, and narration in the console.
-
